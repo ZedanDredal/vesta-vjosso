@@ -195,7 +195,7 @@ $LANG['fr'] = array(
     'SSL Home Directory'  => 'Racine SSL',
     'Lets Encrypt Support'  => 'Lets Encrypt Support',
     'Lets Encrypt'  => 'Lets Encrypt',
-    'Your certificate will be automatically issued in 5 minutes' => 'Your certificate will be automatically issued in 5 minutes',
+    'Your certificate will be automatically issued in 5 minutes' => 'Votre certificat sera automatiquement délivré en 5 minutes',
     'Proxy Support'  => 'Support Proxy',
     'Proxy Extensions'  => 'Extensions Proxy',
     'Web Statistics'  => 'Statistiques Web',
@@ -510,19 +510,19 @@ $LANG['fr'] = array(
     'CRON_EXCLUSIONS' => 'Pour explure toutes les tâches utilisez *.',
     'USER_EXCLUSIONS' => 'Entrez les noms de répertoires, un par ligne. Pour exclure tous les répertoires utilisez *.',
 
-    'Welcome to Vesta Control Panel'  => "Bienvenue sur l'interface d'administration Vesta CP",
-    'MAIL_FROM'  => 'Vesta Control Panel <noreply@%s>',
+    'Welcome to Vesta Control Panel'  => "Bienvenue sur l'interface d'administration hSolution",
+    'MAIL_FROM'  => 'hSolution Control Panel <noreply@%s>',
     'GREETINGS_GORDON_FREEMAN' => "Bonjour, %s %s,\n",
     'GREETINGS' => "Bonjour,\n",
-    'ACCOUNT_READY' => "Votre compte a été créé avec succès et est prêt à l'emploi.\n\nhttps://%s/login/\nUtilisateur : %s\nMot de Passe : %s\n\n--\nVesta Control Panel\n",
+    'ACCOUNT_READY' => "Votre compte a été créé avec succès et est prêt à l'emploi.\n\nhttps://%s/login/\nUtilisateur : %s\nMot de Passe : %s\n\n--\nhSolution\n",
 
     'FTP login credentials'  => 'Identifiants de connexion FTP',
-    'FTP_ACCOUNT_READY' => "Le compte FTP a été créé avec succès et est prêt à l'emploi.\n\nHôte : %s\nUtilisateur : %s_%s\nMot de Passe : %s\n\n--\nVesta Control Panel\n",
+    'FTP_ACCOUNT_READY' => "Le compte FTP a été créé avec succès et est prêt à l'emploi.\n\nHôte : %s\nUtilisateur : %s_%s\nMot de Passe : %s\n\n--\nhSolution\n",
 
     'Database Credentials'  => 'Identifiants de connexion à la Base de Données',
-    'DATABASE_READY' => "La base de données a été créée avec succès et est prête à l'emploi.\n\nBase de Données : %s\nUtilisateur : %s\nMot de Passe: %s\n%s\n\n--\nVesta Control Panel\n",
+    'DATABASE_READY' => "La base de données a été créée avec succès et est prête à l'emploi.\n\nBase de Données : %s\nUtilisateur : %s\nMot de Passe: %s\n%s\n\n--\nhSolution\n",
 
-    'forgot password'  => 'mot de passe oublié',
+    'forgot password'  => 'Mot de passe oublié',
     'Confirm'  => 'Confirmer',
     'New Password'  => 'Nouveau mot de passe',
     'Confirm Password'  => 'Confirmer le mot de passe',
@@ -531,7 +531,7 @@ $LANG['fr'] = array(
     'RESET_NOTICE'  => '',
     'RESET_CODE_SENT'  => 'Un Code de Réinitialisation de votre mot de passe a été envoyé à votre adresse email<br>',
     'MAIL_RESET_SUBJECT'  => 'Réinitialisation du mot de passe de %s',
-    'PASSWORD_RESET_REQUEST' => "Pour réinitialiser votre mot de passe, veuillez suivre le lien suivant :\nhttps://%s/reset/?action=confirm&user=%s&code=%s\n\nSinon, vous pouvez suivre https://%s/reset/?action=code&user=%s et entrer le code de réinitialisation suivant :\n%s\n\nSi vous n'avez pas demandé la réinitialisation de votre mot de passe, veuillez ignorer ce message. Nous vous prions de nous excuser pour la gène occasionnée.\n\n--\nVesta Control Panel\n",
+    'PASSWORD_RESET_REQUEST' => "Pour réinitialiser votre mot de passe, veuillez suivre le lien suivant :\nhttps://%s/reset/?action=confirm&user=%s&code=%s\n\nSinon, vous pouvez suivre https://%s/reset/?action=code&user=%s et entrer le code de réinitialisation suivant :\n%s\n\nSi vous n'avez pas demandé la réinitialisation de votre mot de passe, veuillez ignorer ce message. Nous vous prions de nous excuser pour la gène occasionnée.\n\n--\nhSolution\n",
 
     'Jan' => 'Jan',
     'Feb' => 'Fev',
